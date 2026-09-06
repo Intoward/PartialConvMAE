@@ -1,0 +1,14 @@
+# Core Deep Learning Framework
+torch>=2.0.0
+torchvision>=0.15.0
+
+# Scientific Computing & Array Manipulation
+numpy>=1.23.5
+scipy>=1.10.0
+
+# Data Handling & Progress Tracking
+tqdm>=4.65.0
+
+# Visualization & Experiment Logging (Optional / Utilities)
+matplotlib>=3.7.0
+tensorboard>=2.12.0
