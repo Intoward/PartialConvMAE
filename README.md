@@ -2,7 +2,7 @@
 
 An asymmetric 3D Masked Autoencoder architecture designed for high-fidelity radio frequency (RF) power map reconstruction and dynamic spectrum cartography from sparse, irregular spatio-temporal observations.
 
-Developed as a part of my 2026 Senior Design Project for the University of Central Florida.
+Developed as a part of my 2026 Senior Design Project for the University of Central Florida. This was designed to be used on Google Colab, but this project's .ipynb file can be partitioned into discrete .py files for similar functionality.
 
 This model architecture was derived from the ConvMAE model featured in: https://arxiv.org/pdf/2505.15571
 
