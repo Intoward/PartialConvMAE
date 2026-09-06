@@ -4,6 +4,8 @@ An asymmetric 3D Masked Autoencoder architecture designed for high-fidelity radi
 
 Developed as a part of my 2026 Senior Design Project for the University of Central Florida.
 
+This model architecture was derived from the ConvMAE model featured in: https://arxiv.org/pdf/2505.15571
+
 ---
 
 ## Overview
